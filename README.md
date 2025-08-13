@@ -20,8 +20,7 @@ Automation assistance via **Copilot** was used to speed up formula creation and 
 
 ## 📂 Files in this Repository
 - `Global_Electronics_Dataset_Cleaned.xlsx` — Final cleaned dataset with analysis and charts.
-- `Global_Electronics_Charts.png` — Snapshot of dashboards and key visuals.
-- `raw_dataset.xlsx` *(optional)* — Original unprocessed dataset for reference.
+- `Global_Electronics_Charts.Pdf` — Snapshot of dashboards and key visuals.
 
 ## 🖥 Tools Used
 - Microsoft Excel
